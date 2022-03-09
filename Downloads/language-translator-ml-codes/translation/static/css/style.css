@@ -1,0 +1,63 @@
+.demo{
+    color:red;
+}
+body{
+    background: #a2d2ff !important;
+}
+.navbar{
+    background: transparent !important;
+}
+.input-text{
+    padding:20px;
+    border-radius: 15px;
+    border: none;
+    resize:none;
+    background: #ffeaa7;
+}
+.input-text:hover, .mic:hover, .vol:hover{
+    cursor: pointer;
+}
+.input-text:focus{
+    outline: none !important;
+}
+.color-custom{
+    color:#ff865e;
+}
+.page-links{
+    text-decoration: none;
+    color: black;
+}
+.heads{
+    border-radius: 10px;
+    padding:10px 30px 10px 30px;
+    margin: 0;
+    background: #ffeaa7;
+}
+.page-links:hover{
+    cursor: pointer;
+    color: #ff865e;
+}
+.mic{
+    color: white !important;
+    border-radius: 25%;
+    padding:24px;
+    background: #ff865e;
+    font-size: 18px !important;
+}
+.bg-red{
+    background: red;
+}
+.vol{
+    color: white !important;
+    border-radius: 25%;
+    padding:24px;
+    background: #ff865e;
+    font-size: 18px !important;
+}
+.submit-btn{
+    color: white !important;
+    background: #9b59b6;
+    border: none;
+    border-radius: 15%;
+    padding:21px;
+}
